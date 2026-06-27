@@ -4,7 +4,9 @@
 
 Researcher at the intersection of satellite image analysis, machine learning, and environmental science. I build tools and pipelines to understand how landscapes change — and what those changes mean for biodiversity and protected areas.
 
-Currently working [MapBiomas México](https://mexico.mapbiomas.org/) (Collection 1) and affiliated with **UNAM**.
+Currently working [Pabellón Nacional de la Biodiversidad](https://www.ib.unam.mx/ib/pabio/)
+
+Member of [MapBiomas México](https://mexico.mapbiomas.org/) (Collection 1) and affiliated with **UNAM**.
 
 ---
 
