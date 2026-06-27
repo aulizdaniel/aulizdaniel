@@ -1,20 +1,22 @@
 # Daniel M. Auliz-Ortiz
 
-**Geospatial Data Scientist · Conservation Biology · Remote Sensing**
+**Posdoc researcher at Instituto de Biologia, UNAM** **Geospatial Data Scientist · Conservation Biology · Remote Sensing**
 
 Researcher at the intersection of satellite image analysis, machine learning, and environmental science. I build tools and pipelines to understand how landscapes change — and what those changes mean for biodiversity and protected areas.
 
-Currently coordinating the urban land cover classification pipeline for [MapBiomas México](https://mexico.mapbiomas.org/) (Collection 1) and affiliated with **UNAM**.
+Currently working [MapBiomas México](https://mexico.mapbiomas.org/) (Collection 1) and affiliated with **UNAM**.
 
 ---
 
 ## What I work on
 
-**Remote sensing & land cover** — Large-scale classification of urban and forest cover using Google Earth Engine, with time series spanning 1985–present across Mexico.
+**Biodiversity response to anthropogenic impacts** — Modeling species response to habitat cahnages 
 
-**Protected area effectiveness** — Quantitative evaluation of natural protected areas using matching methods, causal inference, and spatial analysis in R. My work has appeared in *PNAS*, *Proceedings of the Royal Society B*, and *Land Use Policy*.
+**Remote sensing & land cover** — Large-scale classification of land cover using Google Earth Engine, with time series spanning 1985–present across Mexico.
 
-**Biodiversity & landscape ecology** — Spatial analysis of forest cover change in Mesoamerican biosphere reserves, and emerging work on plant–hummingbird pollinator interaction networks.
+**Protected area effectiveness** — Quantitative evaluation of protected areas using matching methods, causal inference, and spatial analysis in R.
+
+**Landscape ecology** — I collaborate with various colleagues to assess the effect of landscape configuration and composition on species. 
 
 ---
 
